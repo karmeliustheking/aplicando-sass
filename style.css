@@ -1,0 +1,81 @@
+.chota {
+  background-color: rgba(137, 43, 226, 0.226);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: black;
+}
+
+.bkbody {
+  background-image: url(./IMG-20220315-WA0015.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.hola {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.nave {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background-color: rgba(5, 85, 85, 0.548);
+  font-size: 35px;
+}
+
+.blessed {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 27px;
+}
+
+.churro {
+  background-color: rgba(250, 201, 136, 0.548);
+}
+
+.osx {
+  background-color: rgba(250, 201, 136, 0.548);
+}
+
+.perro {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 28px;
+}
+
+.bobesponja {
+  background-color: rgba(236, 181, 114, 0.24);
+}
+
+.spekter {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 28px;
+}
+
+.ferno {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  font-size: 34px;
+}
+
+.brodi {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  font-size: 26px;
+}
+
+.pi2 {
+  margin-top: 2.5%;
+}
+
+.pi3 {
+  margin-top: 2.5%;
+}
+
+.pi4 {
+  margin-top: 2.5%;
+}
+
+.PITORRO {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 38px;
+  background-color: rgba(137, 43, 226, 0.226);
+}
+/*# sourceMappingURL=style.css.map */
